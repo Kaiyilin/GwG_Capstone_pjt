@@ -8,10 +8,12 @@ In 2020, the pandemic of Covid-19 cause lots of people lost their family. Many c
 - How could this trend help us?
 
 ### Prepare phase
-#### Data: 
-#### Tools: 
+- Data: Open data source from CDC
 
 ### Process phase
+- Tools: SQL, Speadsheet, Python
+- Metrics:
+- Document the cleaning process 
 
 ### Analyse phase
 
