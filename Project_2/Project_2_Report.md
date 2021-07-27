@@ -39,4 +39,20 @@
 
 ### Analyse phase
 
+- The goal of this pahse
+  <ol>
+    <li> Aggregate your data so it’s useful and accessible </li>
+    <li> Organize and format your data </li>
+    <li> Perform calculations </li>
+    <li> Identify trends and relationships </li>
+  </ol>
+
 ### Share phase
+<ol>
+  <li> Generally, we 33 unique user in this dataset. Overall 33 users track their daily activity, 24 users track their sleep, 14 users track their heart rate and 8 users track their weights. </li>
+
+  <li> The daily activity tracker is the most popular and the weight track is the least popular service for the user</li>
+
+  <li></li>
+  <li></li>
+</ol>
