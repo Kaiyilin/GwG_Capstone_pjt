@@ -48,11 +48,15 @@
   </ol>
 
 ### Share phase
-<ol>
-  <li> Generally, we 33 unique user in this dataset. Overall 33 users track their daily activity, 24 users track their sleep, 14 users track their heart rate and 8 users track their weights. </li>
+- What I discovered
+  <ol>
+    <li> Generally, we 33 unique user in this dataset. Overall 33 users track their daily activity, 24 users track their sleep, 14 users track their heart rate and 8 users track their weights. </li>
 
-  <li> The daily activity tracker is the most popular and the weight track is the least popular service for the user</li>
+    <li> The daily activity tracker is the most popular and the weight track is the least popular service for the user</li>  
+  </ol>
 
-  <li></li>
-  <li></li>
-</ol>
+- My opinion
+  <ol>  
+    <li> Most of the users may not know how to use their devices, generally there are great potential for the rest of the services</li>
+    <li> Users with smart devices might seek an healthier life. It's clearly that users who have greater daily activity consumed more calories, therefore company could use this to encourage users use more service company provided including recording their weight changes. And eventually subcibe our membership to get advice based on the data they record</li>
+  </ol>
