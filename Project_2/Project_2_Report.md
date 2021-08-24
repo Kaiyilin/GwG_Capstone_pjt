@@ -54,14 +54,14 @@
     
     <li> Every user (N=33) have track have their daily activity for least 4 days, 30 users track their daily activity more that 20 days </li>
 
-    <li> Generally users sleep between 6-8 hours are burns more calories and are more active than those sleep less than 6 hours and greater than 8 hours. The relationship among calories, activity and sleep are limited by this dataset</li>  
+    <li> Generally users sleep between 6-8 hours burn more calories and are more active than those sleep less than 6 hours and greater than 8 hours. The relationship among calories, activity and sleep are limited by this dataset</li>  
   </ol>
 
 - My opinions
   <ol>  
     <li> Company can focus on the devices that with fuctions like tracking daily sleep and daily activity (Leaf and time), since most of the users enjoyed these 2 functions</li>
 
-    <li> Most of the users may not know how to use their devices or not interested in the functions device provide. Only small amout of user use all the 4 features the Fibit provid. Company may need a tutorial for the usage of devices or encourage customers to use the services company provide.</li>
+    <li> Most of the users may not know how to use their devices or not interested in the functions device provide. Only small amout of user (N=3) use all the 4 features the Fitbit provid. Company may need a tutorial for the usage of devices or encourage customers to use the services company provide.</li>
 
     <li> It shows clear trend that the users with higher daily activity burns more calories per day, it can encourage users if they want to lose their weights</li>
   </ol>
